@@ -27,11 +27,15 @@ https://github.com/bay6/prerequisite<br/>
 
 
 中级项目github devise集成<br/>
-刷怪点: https://github.com/bay6/devise_omniauth_github
+刷怪点: https://github.com/bay6/devise_omniauth_github<br/>
 带队人: @howiehu<br/>
+参与成员: 暂无，欢迎大家加入这个项目，项目容量2-3成员<br/>
 开始时间: 06/22<br/>
 状态: <br/>
 部署演示地址:<br/>
 备注: 完成该任务将进入中级团队<br/>
+
+
+
 
 
