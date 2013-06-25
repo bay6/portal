@@ -16,10 +16,10 @@
 @majia2968 完成pull request<br/>
 @yipingwang 完成pull request, 差blog
 
+<div style='color: red'>已经入职成员，还没有领导任务的，请尽快更新状态领取任务。</div>
 
 ## 项目进展和带队人
 
-已经入职成员，还没有领导任务的，请尽快更新状态领取任务。
 
 入职工会，体检项目<br/>
 https://github.com/bay6/prerequisite<br/>
