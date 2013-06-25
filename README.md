@@ -16,7 +16,7 @@
 @majia2968 完成pull request<br/>
 @yipingwang 完成pull request, 差blog
 
-<div style='color: red'>已经入职成员，还没有领导任务的，请尽快更新状态领取任务。</div>
+*已经入职成员，还没有领导任务的，请尽快更新状态领取任务。*
 
 ## 项目进展和带队人
 
