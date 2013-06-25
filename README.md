@@ -24,6 +24,16 @@
 https://github.com/bay6/prerequisite<br/>
 5成员已经破关，大约20还在排队没有通过体检，熟手的话可以给我msg，能证明实力我直接加你，入职团队。
 
+###1.5级别任务rank github
+刷怪点: https://github.com/bay6/rank_of_github<br/>
+带队人：@william<br/>
+参与成员： @vincent, @william, @biorainy<br/>
+开始时间： 06/25<br/>
+状态：<br/>
+演示地址：<br/>
+备注：<br/>
+
+
 ###中级项目github devise集成<br/>
 刷怪点: https://github.com/bay6/devise_omniauth_github<br/>
 带队人: @howiehu<br/>
