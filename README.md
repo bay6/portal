@@ -13,6 +13,7 @@
 @howiehu 毕业, github登录集成devise中级项目顺利进行中<br/>
 @vincent178 毕业，完成merge<br/>
 @williamherry 毕业, 完成merge<br/>
+@RyanZhu1024 入职，06/26，恭喜，github rank2 任务中<br/>
 @frank1243 完成pull request任务，等blog，最好能练习merge<br/>
 @loveky 完成pull request任务，差blog<br/>
 @kaku87 完成pull request，差blog<br/>
@@ -31,7 +32,7 @@ https://github.com/bay6/prerequisite<br/>
 刷怪点: https://github.com/bay6/rank_of_github<br/>
 带队人：@vincent<br/>
 参与成员： @vincent, @loveky, @biorainy<br/>
-开始时间： 06/25<br/>
+开始时间： 06/22<br/>
 状态：<br/>
 演示地址：<br/>
 备注：<br/>
