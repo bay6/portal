@@ -29,19 +29,27 @@ https://github.com/bay6/prerequisite<br/>
 
 ###1.5级别任务rank github
 刷怪点: https://github.com/bay6/rank_of_github<br/>
-带队人：@william<br/>
-参与成员： @vincent, @william, @biorainy<br/>
+带队人：@vincent<br/>
+参与成员： @vincent, @loveky, @biorainy<br/>
 开始时间： 06/25<br/>
 状态：<br/>
 演示地址：<br/>
 备注：<br/>
 
+###1.5级别任务rank github 平行竞争项目
+刷怪点: https://github.com/bay6/rank_of_github2<br/>
+带队人：@hlee<br/>
+参与成员： @RyanZhu1024, @william, @mouseshi<br/>
+开始时间： 06/25<br/>
+状态： 火热进展中<br/>
+演示地址：<br/>
+备注：团队实力太强，隔壁组完全没有不是一个等级的<br/>
 
 ###中级项目github devise集成<br/>
 刷怪点: https://github.com/bay6/devise_omniauth_github<br/>
 带队人: @howiehu<br/>
 参与成员: 暂无，欢迎大家加入这个项目，项目容量2-3成员<br/>
-开始时间: 06/22<br/>
+开始时间: 06/26<br/>
 状态: <br/>
 部署演示地址:<br/>
 备注: 完成该任务将进入中级团队<br/>
