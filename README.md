@@ -68,13 +68,13 @@ https://github.com/bay6/prerequisite<br/>
 
 ##备选任务分级和作任务条件
 
-####prerequisite####<br/>
+####prerequisite<br/>
 无需条件 https://github.com/bay6/prerequisite<br/>
 
-####tutorial of rails 3####<br/>
+####tutorial of rails 3<br/>
 适合刚毕业同学，建议毕业后迅猛接这个项目，更新进展和讨论遇到的问题<br/>
 
-####rank of github####<br/>
+####rank of github<br/>
 中级项目，是union的一个部分<br/>
 https://github.com/bay6/rank_of_github<br/>
 
