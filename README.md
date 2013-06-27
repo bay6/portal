@@ -47,7 +47,7 @@ https://github.com/bay6/prerequisite<br/>
 开始时间： 06/25<br/>
 状态： 火热进展中<br/>
 演示地址：<br/>
-备注：团队实力太强，隔壁组完全没有不是一个等级的<br/>
+备注：团队实力太强，隔壁组其实也不弱，2队成员加油。<br/>
 
 ###中级项目github devise集成<br/>
 刷怪点: https://github.com/bay6/devise_omniauth_github<br/>
