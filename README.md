@@ -37,7 +37,7 @@ https://github.com/bay6/prerequisite<br/>
 带队人：@vincent<br/>
 参与成员： @vincent, @loveky, @biorainy<br/>
 开始时间： 06/22<br/>
-状态：<br/>
+状态：强力推进中<br/>
 演示地址：<br/>
 备注：<br/>
 
@@ -46,8 +46,8 @@ https://github.com/bay6/prerequisite<br/>
 带队人：@hlee<br/>
 参与成员： @RyanZhu1024, @william, @mouseshi<br/>
 开始时间： 06/25<br/>
-状态： 火热进展中<br/>
-演示地址：<br/>
+状态： 完成初步演示界面<br/>
+演示地址：http://grank.herokuapp.com<br/>
 备注：团队实力太强，隔壁组其实也不弱，2队成员加油。<br/>
 
 ###中级项目github devise集成<br/>
