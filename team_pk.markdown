@@ -5,7 +5,7 @@
 刷怪点1: https://github.com/bay6/rank_of_github<br/>
 刷怪点2: https://github.com/bay6/rank_of_github2<br/>
 
-两周后，开发截止，PK团队双方停止提交commit。 所有入职成员，从<br/>
+两周后(07/07/2013)，开发截止，PK团队双方停止提交commit。 所有入职成员，从<br/>
 * 代码质量
 * 功能难度
 * 代码结构
